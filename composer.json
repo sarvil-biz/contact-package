@@ -18,11 +18,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Sarvil\\Contact\\ContactProvider"
+                "Sarvil\\Contact\\ContactServiceProvider"
             ]
         }
     },
     "require": {
-        
+
     }
 }
