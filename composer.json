@@ -1,0 +1,19 @@
+{
+    "name": "sarvil/contact",
+    "description": "This will sent email to admin and save contact query in database.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sarvil\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sarvil",
+            "email": "sarvil@pm.biztechconsultancy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
